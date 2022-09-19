@@ -2,10 +2,10 @@
 Mi primera trivia
 
 ## Especificaciones:
-He realizado una trivia como parte del Concurso "Becas Jovenes Bicentenario" promovida por el MTPE y poniendo en práctica lo aprendido en las clases del curso "BackEnd Developer" llevada a cabo por la startup peruana Silabuz 
+He realizado una trivia como parte del Concurso "Becas Jovenes Bicentenario" promovida por el MTPE y poniendo en práctica lo aprendido en las clases del curso "BackEnd Developer" llevada a cabo por la startup peruana Silabuz.
 
 1) Pantalla de bienvenida, se menciona en qué consiste la trivia.
-2) Mensaje de "Cual es tu nombre?" y dos botones para comenzar a jugar.
+2) Mensaje de "Cual es tu nombre?".
 3) Mensaje de "Hola (nombre), se menciona las instrucciones y si está conforme con estas.
 4) Se activa el contador de segundos (5 segundos) para dar inicio a las preguntas.
 5) Se entrega un puntaje aleatorio como bonificación al jugador.
